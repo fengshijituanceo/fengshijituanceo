@@ -1,11 +1,12 @@
-# Hi there, I'm Yu Feng  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<img align="center" alt="GIF"  height="260px" src="/profile.gif" />
+
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
 <!--
 **fengshijituanceo/fengshijituanceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+# Hi there, I'm Yu Feng  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
@@ -33,9 +34,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - 📚 I’m currently learning everything about Person re-identification technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to take photos.
-
----
-<img align="center" alt="GIF" width="600px" height="260px" src="/profile.gif" />
 
 ---
 
