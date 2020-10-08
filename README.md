@@ -1,9 +1,5 @@
-  <div align="center"> 
-     <a href="">
-      <img align="center" alt="GIF"  height="260px" src="/profile.gif" />
-    </a>
-</div
 
+<img align="center" alt="GIF"  height="260px" src="/profile.gif" />
 
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
