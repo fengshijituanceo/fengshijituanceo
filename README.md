@@ -35,22 +35,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
-
-<div id="particles-js">
-#particles-js {
-    background-color: #a0d0f8;
-    height: 860px;
-    width: 100%;
-}
-  /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load('particles-js', 'assets/particles.json', function() {
-  console.log('callback - particles.js config loaded');
-});
-
-
-### Playing 🎧
-
-[![Spotify](https://www.kugou.com/](https://music.163.com/#/user/home?id=422375273)
+<img align="center" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
 ---
 
