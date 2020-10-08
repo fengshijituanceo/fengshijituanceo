@@ -43,13 +43,14 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
      <a href="">
       <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
     </a>
+   <a href="">
+      <div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
+    </a>
 
 </div
 
-<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
+
 ---
-<br />
-  
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
