@@ -53,7 +53,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 <br/>
   <div align="center"> 
     <a href="">
-      <img align="center" alt="GIF" height="260px" src="/profile1.gif" />
+      <img align="center" alt="GIF" height="260px" src="/profile.gif" />
     </a>
 </div 
 <br/>
