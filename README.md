@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Contact with me 📝
 ![](https://img.shields.io/badge/QQ-1254001414-green.svg) ![](https://img.shields.io/badge/WeChat-feng15195777575-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-fengyu_cnyc@163.com-c14438?style=flat-square)]
 <br />
-Hi I am Yu Feng, a postgraduates from Northeast University, Shenyang, China. Now I am studying in Person re-identification and working on unsupervised learning, which I think it is the future trend. I am also interested in Object Detection, Photographing. 
+I am a postgraduates from Northeast University, Shenyang, China. Now I am studying in Person re-identification and working on unsupervised learning, which I think it is the future trend. I am also interested in Object Detection, Photographing. 
 
 ---
 <table><tr><td align="center" width="55%">
@@ -32,20 +32,6 @@ Hi I am Yu Feng, a postgraduates from Northeast University, Shenyang, China. Now
 
 
 </td></tr></table>
-
-<div style="margin:0 auto; height:auto;">
-
-<p style="text-align: center;"> 
-    <img src="https://github.com/DreamWaterFound/DreamWaterFound/blob/master/img/owl.gif" alt="owl" height=150 /> </br>
-    Gugu ~~~ 
-</p>
-
-
-</div>
-
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
