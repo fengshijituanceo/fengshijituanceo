@@ -56,10 +56,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 <br/>
 
-<br/>
-<div align="center"><img align="center" alt="GIF" width="800px" height="260px" src="/profile.gif" /></div
-<br/>
-
 ---
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -71,3 +67,8 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 <br/>
 
+---
+
+<br/>
+<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
+<br/>
