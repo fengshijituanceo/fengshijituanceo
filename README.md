@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ### Contact with me 📝
 ![](https://img.shields.io/badge/QQ-1254001414-green.svg) ![](https://img.shields.io/badge/WeChat-feng15195777575-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-fengyu_cnyc@163.com-c14438?style=flat-square)]
-
-
 <br />
 
 ---
