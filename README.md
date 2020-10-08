@@ -1,9 +1,7 @@
 <br/>
-<div align="center"><img align="center" alt="GIF" width="600px" height="400px" src="/profile.gif" /></div
+<div align="center"><img align="center" alt="GIF" width="800px" height="260px" src="/profile.gif" /></div
 <br/>
   
----
-
 
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
