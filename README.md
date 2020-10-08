@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+---
+
+
+<br/>
+<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
+<br/>
+
 -->
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -68,9 +77,3 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 <br/>
 
----
-
-
-<br/>
-<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
-<br/>
