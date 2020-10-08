@@ -40,7 +40,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 ### Playing 🎧
 
-[![Spotify](https://music.163.com](https://music.163.com/#/user/home?id=422375273)
+[![Spotify](https://www.kugou.com/](https://music.163.com/#/user/home?id=422375273)
 
 ---
 
