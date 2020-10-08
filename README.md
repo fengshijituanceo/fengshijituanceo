@@ -39,7 +39,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://music.163.com/#/user/home?id=422375273)](https://music.163.com/#/user/home?id=422375273)
+[![Spotify](https://music.163.com](https://music.163.com/#/user/home?id=422375273)
 
 ---
 
