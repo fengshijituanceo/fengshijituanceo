@@ -1,6 +1,6 @@
 ---
 
-<img align="right" alt="GIF"  height="260px" src="/profile.gif" />
+<img align="left" alt="GIF"  height="260px" src="/profile.gif" />
 
 ---
 
