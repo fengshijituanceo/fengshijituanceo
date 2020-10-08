@@ -37,9 +37,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
-<br/>
-<div align="center"><img align="center" alt="GIF" width="800px" height="260px" src="/profile.gif" /></div
-<br/>
 
 ### Languages and Tools 🛠 
 
@@ -57,6 +54,10 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+<br/>
+
+<br/>
+<div align="center"><img align="center" alt="GIF" width="800px" height="260px" src="/profile.gif" /></div
 <br/>
 
 ---
