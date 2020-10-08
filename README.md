@@ -45,10 +45,11 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
     </a>
 
 </div
-<br />
+
 <div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
 ---
 <br />
+  
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
