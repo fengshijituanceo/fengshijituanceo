@@ -23,12 +23,8 @@ Here are some ideas to get you started:
 ### Contact with me 📝
 ![](https://img.shields.io/badge/QQ-1254001414-green.svg) ![](https://img.shields.io/badge/WeChat-feng15195777575-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-fengyu_cnyc@163.com-c14438?style=flat-square)]
 <br />
-
----
-
-
 Hi I am Yu Feng, a postgraduates from Northeast University, Shenyang, China. Now I am studying in Person re-identification and working on unsupervised learning, which I think it is the future trend. I am also interested in Object Detection, Photographing. 
-
+---
 <table><tr><td align="center" width="55%">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
