@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 I am a postgraduates from Northeast University, Shenyang, China. Now I am studying in Person re-identification and working on unsupervised learning, which I think it is the future trend. I am also interested in Object Detection, Photographing. 
 
 ---
-## I'm a Computer Science and Engineering Student  
+## I'm a Pattern Recognition Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on online learning, unsupervised learning, object dection etc.
+- 📚 I’m currently learning everything about Person re-identification technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to take photos.
 
 ---
 
@@ -74,7 +74,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&count_private=true&theme=gotham&line_height=40" />
+      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=gotham&line_height=40&hide=css"/>
