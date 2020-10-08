@@ -1,7 +1,5 @@
+<div align="center"><img align="center" alt="GIF"  height="200px" src="/profile.gif" /></div
 
-<img align="center" alt="GIF"  height="300px" src="/profile.gif" />
-
----
 
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
