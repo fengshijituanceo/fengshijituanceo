@@ -49,7 +49,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
-
 <br/>
   <div align="center"> 
     <a href="">
@@ -57,7 +56,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
     </a>
 </div 
 <br/>
-
 ---
 ### Languages and Tools 🛠 
 
