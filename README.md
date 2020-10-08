@@ -62,14 +62,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 <br/>
 
 ---
-<table><tr><td align="center" width="55%">
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
-
-
-</td></tr></table>
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
