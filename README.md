@@ -54,7 +54,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![CUDA](http://img.shields.io/badge/-CUDA?style=flat-square&logo=CUDAc&logoColor=ffffff)
+![CUDA](http://img.shields.io/badge/-NVIDIA?style=flat-square&logo=CUDAc&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
