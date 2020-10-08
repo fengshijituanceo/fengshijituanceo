@@ -35,7 +35,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
-src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
 <div id="particles-js">
 #particles-js {
     background-color: #a0d0f8;
