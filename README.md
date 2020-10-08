@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,9 +25,6 @@ Hi I am Guoqing Liu, a postgraduates from Northeast University, Shenyang, China.
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
 
 </td></tr></table>
 
