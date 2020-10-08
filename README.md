@@ -1,5 +1,5 @@
 # Hi there, I'm Yu Feng  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<img align="right" alt="GIF" width="100px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
+<img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
 <!--
 **fengshijituanceo/fengshijituanceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
