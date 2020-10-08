@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+<a href="">
+      <img align="center"  height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
+    </a>
 
 ---
 
@@ -49,11 +52,8 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 
 <br/>
   <div align="center"> 
-     <a href="">
-      <img align="center"  height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
-    </a>
     <a href="">
-      <img align="center" alt="GIF"  width="300px" height="260px" src="/profile1.gif" />
+      <img align="center" alt="GIF" height="260px" src="/profile1.gif" />
     </a>
 </div 
 <br/>
