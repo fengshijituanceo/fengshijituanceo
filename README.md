@@ -35,7 +35,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
-<img align="center" alt="GIF" width="300px" height="160px" src="/profile.gif" />
+<img align="center" alt="GIF" width="600px" height="260px" src="/profile.gif" />
 
 ---
 
