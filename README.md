@@ -41,10 +41,10 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
     </a>
    <a href="">
-      <img align="center" alt="GIF"  height="260px" src="/profile1.gif" />
+      <img align="right" alt="GIF"  height="260px" src="/profile1.gif" />
     </a>
 
 </div
