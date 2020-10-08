@@ -45,9 +45,9 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
     </a>
 
 </div
-  <a href="">
-      <img align="left" alt="GIF"  height="260px" src="/profile.gif" />
-    </a>
+
+<img align="left" alt="GIF"  height="260px" src="/profile.gif" />
+   
 
 
 ---
