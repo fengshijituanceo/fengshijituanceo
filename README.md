@@ -37,18 +37,21 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 - ⚡ Fun fact: I love to take photos.
 
 ---
+
+<br/>
+
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
      <a href="">
-      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
     </a>
-   <a href="">
-      <img align="right" alt="GIF"  height="260px" src="/profile1.gif" />
+    <a href="">
+      <img align="center" alt="GIF"  height="260px" src="/profile1.gif" />
     </a>
-
 </div
-
+  
+<br/>
 
 ---
 ### Languages and Tools 🛠 
