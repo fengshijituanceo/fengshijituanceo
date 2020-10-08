@@ -74,7 +74,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
   
   <div align="center"> 
      <a href="">
-      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&theme=gotham&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=gotham&line_height=40&hide=css"/>
