@@ -1,5 +1,5 @@
 <br/>
-<div align="center"><img align="center" alt="GIF"  height="200px" src="/profile.gif" /></div
+<div align="center"><img align="center" alt="GIF" width="600px" height="400px" src="/profile.gif" /></div
 <br/>
   
 ---
