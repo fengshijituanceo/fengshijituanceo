@@ -65,7 +65,6 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Adobe](http://img.shields.io/badge/-Adobe-#FF0000?style=flat-square&logo=Adobe&logoColor=ffffff)
 
 <br/>
 
