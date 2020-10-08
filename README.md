@@ -1,6 +1,6 @@
   <div align="center"> 
      <a href="">
-      <img align="left" alt="GIF"  height="260px" src="/profile.gif" />
+      <img align="center" alt="GIF"  height="260px" src="/profile.gif" />
     </a>
 </div
 
