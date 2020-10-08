@@ -1,5 +1,5 @@
 # Hi there, I'm Yu Feng  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
+<img align="right" alt="GIF" width="100px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
 <!--
 **fengshijituanceo/fengshijituanceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 I am a postgraduates from Northeast University, Shenyang, China. Now I am studying in Person re-identification and working on unsupervised learning, which I think it is the future trend. I am also interested in Object Detection, Photographing. 
 
 ---
-<table><tr><td align="center" width="55%">
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
-
-
-</td></tr></table>
-
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -49,7 +42,12 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
+<table><tr><td align="center" width="55%">
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEU-Little-Prince)](https://github.com/NEU-Little-Prince/github-readme-stats)
 
+
+</td></tr></table>
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
