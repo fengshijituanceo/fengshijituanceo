@@ -55,6 +55,7 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![CUDA](http://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=ffffff)
+![Anaconda](http://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=Anaconda&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -62,7 +63,9 @@ I am a postgraduates from Northeast University, Shenyang, China. Now I am studyi
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Adobe](http://img.shields.io/badge/-Adobe-#FF0000?style=flat-square&logo=Adobe&logoColor=ffffff)
 
 <br/>
 
