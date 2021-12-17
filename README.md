@@ -48,17 +48,17 @@ I am a postgraduate from Northeast University, Shenyang, China. Now I am studyin
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to take photos.
 
----
+[//]: #(---
 
-;<br/>
-;  <div align="center"> 
-;    <a href="">
-;      <img align="center" alt="GIF" height="260px" src="/profile.gif" />
-;    </a>
-;</div 
-;<br/>
+<br/>
+  <div align="center"> 
+    <a href="">
+      <img align="center" alt="GIF" height="260px" src="/profile.gif" />
+    </a>
+</div 
+<br/>
       
----
+---)
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
