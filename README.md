@@ -50,13 +50,13 @@ I am a postgraduate from Northeast University, Shenyang, China. Now I am studyin
 
 ---
 
-<br/>
-  <div align="center"> 
-    <a href="">
-      <img align="center" alt="GIF" height="260px" src="/profile.gif" />
-    </a>
-</div 
-<br/>
+;<br/>
+;  <div align="center"> 
+;    <a href="">
+;      <img align="center" alt="GIF" height="260px" src="/profile.gif" />
+;    </a>
+;</div 
+;<br/>
       
 ---
 ### Languages and Tools 🛠 
