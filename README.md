@@ -47,8 +47,8 @@ I am a postgraduate from Northeast University, Shenyang, China. Now I am studyin
 - 📚 I’m currently learning everything about Person re-identification technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to take photos.
-
-[//]: #(---
+<!--
+---
 
 <br/>
   <div align="center"> 
@@ -58,7 +58,8 @@ I am a postgraduate from Northeast University, Shenyang, China. Now I am studyin
 </div 
 <br/>
       
----)
+---
+-->
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
