@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<a href="">
-      <img align="center"  height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
-    </a>
+//<a href="">
+//      <img align="center"  height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NEU-Little-Prince&show_icons=true&count_private=true&line_height=40" />
+//    </a>
 
----
+//---
 
 
-<br/>
-<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
-<br/>
+//<br/>
+//<div align="center"><img align="center" alt="GIF" width="800px" height="360px" src="/profile.gif" /></div
+//<br/>
 
--->
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+//-->
+//<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 ![](https://img.shields.io/badge/QQ-1254001414-green.svg) ![](https://img.shields.io/badge/WeChat-feng15195777575-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-冯宇-brightgreen)](https://www.zhihu.com/people/feng-shi-ji-tuan-re-huo) [![Mail Badge](https://img.shields.io/badge/-fengyu_cnyc@163.com-c14438?style=flat-square)]
