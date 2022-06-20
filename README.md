@@ -1,5 +1,5 @@
 
-# Hi there, I'm Yu Feng  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  
+# Hi there, I'm Yu Feng  
 
 <img align="right" alt="GIF" width="300px" height="160px" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" />
 
